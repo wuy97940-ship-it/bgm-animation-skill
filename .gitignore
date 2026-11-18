@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+frames/
+frames_*/
+bgm_*.m4a
+bgm_*.wav
+ref.mp4
+final.mp4
+qa_*.png
